@@ -1,4 +1,3 @@
 This code is incomplete:
 
-I have to write chatbot functionalities in chat.py
-
+Some minor changes are required in Chat.py
