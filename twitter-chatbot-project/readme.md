@@ -1,3 +1,2 @@
-This code is incomplete:
-
-Some minor changes are required in Chat.py
+Chatbots using Keras
+Some minor improvements in Chatbot function can be made
